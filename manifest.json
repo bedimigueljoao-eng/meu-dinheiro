@@ -5,13 +5,16 @@
   "description": "Controlo financeiro por locais, subcontas, participantes, movimentações, dívidas e empréstimos.",
   "lang": "pt-PT",
   "dir": "ltr",
-  "start_url": "/meu-dinheiro/?source=pwa",
+  "start_url": "/meu-dinheiro/?v=5",
   "scope": "/meu-dinheiro/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#06172c",
   "theme_color": "#06172c",
-  "categories": ["finance", "productivity"],
+  "categories": [
+    "finance",
+    "productivity"
+  ],
   "icons": [
     {
       "src": "./icons/icon-192.png",

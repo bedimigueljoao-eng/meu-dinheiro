@@ -1,5 +1,4 @@
-# Meu Dinheiro PWA
-Aplicação mobile-first que separa Local, Subconta, Participante e Movimentação. Inclui empréstimos, dívidas, devoluções e pagamentos parciais.
+# Meu Dinheiro V5
+Atualização funcional com associação formal Subconta ↔ Participantes, formulários dependentes, saldo disponível, extrato geral, extrato do Local, extrato completo da Subconta, extrato Local + Subconta e extrato por Participante.
 
-## GitHub Pages
-Envie estes ficheiros para a raiz do repositório. Em Settings > Pages, selecione Deploy from a branch, branch main e /(root).
+Substitua todos os ficheiros do repositório GitHub pelos ficheiros deste pacote. A cache PWA foi alterada para `meu-dinheiro-v5-final`.
