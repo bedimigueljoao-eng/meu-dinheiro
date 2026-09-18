@@ -1,0 +1,17 @@
+CORREÇÃO PWA V4.1
+
+No repositório GitHub "meu-dinheiro":
+1. Carregue manifest.json e sw.js na raiz e confirme a substituição.
+2. Arraste a pasta icons completa para substituir os dois ícones existentes e adicionar os dois maskable.
+3. Faça o commit com a mensagem: Corrigir instalação PWA no Android
+4. Aguarde o GitHub Pages concluir a publicação.
+5. No telefone, remova o atalho antigo e limpe os dados do site apenas depois de guardar backup, caso já tenha dados importantes.
+6. Abra novamente o link no Chrome e escolha Instalar aplicação.
+
+Estrutura final esperada:
+manifest.json
+sw.js
+icons/icon-192.png
+icons/icon-512.png
+icons/icon-maskable-192.png
+icons/icon-maskable-512.png
